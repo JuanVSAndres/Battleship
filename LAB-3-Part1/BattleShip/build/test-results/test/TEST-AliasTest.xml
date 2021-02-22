@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AliasTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-22T05:00:02" hostname="DESKTOP-6IF7BN9" time="0.018">
+  <properties/>
+  <testcase name="shouldGetCarriersAvailableCapacityCount()" classname="AliasTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
