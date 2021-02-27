@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NavyTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-02-27T04:20:05" hostname="DESKTOP-6IF7BN9" time="0.031">
+  <properties/>
+  <testcase name="shouldGetAliasNaviesCount()" classname="NavyTest" time="0.018"/>
+  <testcase name="shouldCalculateIfAnAirCraftInAir()" classname="NavyTest" time="0.002"/>
+  <testcase name="shouldMoveShip()" classname="NavyTest" time="0.001"/>
+  <testcase name="shouldCheckForDamageMachines()" classname="NavyTest" time="0.001"/>
+  <testcase name="shouldCalculateHowManyMachinesAreInTheNavy()" classname="NavyTest" time="0.0"/>
+  <testcase name="shouldCalculateHowManyAircraftsCanBeAddedToAnAircraftCarrrier()" classname="NavyTest" time="0.0"/>
+  <testcase name="shouldCalculateIfThereAreSufficientMarines()" classname="NavyTest" time="0.001"/>
+  <testcase name="shouldCalculateIfThereAreAirProblems()" classname="NavyTest" time="0.001"/>
+  <testcase name="shouldBeDestroyed()" classname="NavyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
