@@ -5,10 +5,10 @@ public class Board {
     /**
      *Creacion de el tablero(sus limites).
      */
-    public static final int maxlong=100;
-    public static final int maxLat=100;
-    public static final int minLong=-100;
-    public static final int minLat=-100;
+    public final int maxlong=100;
+    public final int maxLat=100;
+    public final int minLong=-100;
+    public final int minLat=-100;
     /**
      *Creacion de atributos de la clase como tal.
      */

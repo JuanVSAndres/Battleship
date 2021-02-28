@@ -115,6 +115,9 @@ public class Navy {
     {
         for (int i = 0;i<getShips().size();i++)
         {
+            if (deltaLatitud+getShips().get(i).getLocation().getLatitude()<= board.maxLat && deltaLatitud+getShips().get(i).getLocation().getLongitude()<= board.maxlong && deltaLatitud+getShips().get(i).getLocation().getLongitude()>= board.minLong && deltaLatitud+getShips().get(i).getLocation().getLatitude()>= board.minLat ){
+
+            }
             getShips().get(i).setLocation(new Position(getShips().get(i).getLocation().getLatitude()+deltaLatitud,getShips().get(i).getLocation().getLongitude()+deltaLongitud));
         }
     }
