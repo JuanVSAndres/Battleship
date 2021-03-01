@@ -19,7 +19,7 @@ public class Navy {
      */
     private Board board=new Board();
     /**
-     *Creacion de arreglos (ArrayList)
+     *Creacion de arreglos (Hash)
      */
     private static Set<String> ac = new HashSet<>();
 

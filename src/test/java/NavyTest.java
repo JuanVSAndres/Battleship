@@ -187,7 +187,7 @@ public class NavyTest {
         Marine m3 = new Marine("Valentina",3);
         Marine m4 = new Marine("Sebastian",4);
         Marine m5 = new Marine("Pepe",5);
-        Marine m6 = new Marine("Pedro",6);
+        Marine m6 = new Marine("Jeff",6);
         Marine m7 = new Marine("Armando",7);
         Marine m8 = new Marine("Roberto",8);
         Marine m9 = new Marine("Santiago",9);
